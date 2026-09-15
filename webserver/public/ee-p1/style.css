@@ -1,0 +1,22 @@
+/* selector is the thing we are grabbing on the page */
+body {
+    /* background-color: cornflowerblue; */
+    background-color: rgba(253,246,136,0.7);
+    text-align: center;
+}
+
+h1{
+    font-family: serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: serif;
+    font-size: 40px;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: justify-all;
+    font-size: 20px;
+}
