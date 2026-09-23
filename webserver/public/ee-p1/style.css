@@ -1,22 +1,68 @@
 /* selector is the thing we are grabbing on the page */
 body {
-    /* background-color: cornflowerblue; */
-    background-color: rgba(253,246,136,0.7);
-    text-align: center;
+  /* background-color: cornflowerblue; */
+  background-color: black;
+  text-align: center;
+  color: white;
 }
 
-h1{
-    font-family: serif;
-    font-size: 50px;
+h1 {
+  font-family: serif;
+  font-size: 50px;
 }
 
 h2 {
-    font-family: serif;
-    font-size: 40px;
+  font-family: serif;
+  font-size: 40px;
 }
 
 p {
-    font-family: sans-serif;
-    text-align: justify-all;
-    font-size: 20px;
+  font-family: sans-serif;
+  text-align: justify-all;
+  font-size: 20px;
+}
+
+marquee {
+  font-size: 100px;
+  font-family: serif;
+}
+
+#m1 {
+  background-color: coral;
+}
+
+#m2 {
+  color: aqua;
+}
+
+#m3 {
+  font-size: 10px;
+}
+
+#m4 {
+  font: sans-serif;
+}
+
+#m5 {
+  color: orange;
+}
+
+#m6 {
+  background-color: springgreen;
+}
+
+#m7 {
+  color: yellow;
+}
+
+#m8 {
+  background-color: cornflowerblue;
+}
+
+#a1 {
+  font-size: 200px;
+}
+
+#a2 {
+  font-size: 5px;
 }
